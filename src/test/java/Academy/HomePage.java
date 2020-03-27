@@ -26,6 +26,9 @@ public class HomePage extends BaseTest
 		lp.passWord("asd123");
 		lp.login();
 		
+		System.out.println("jjjjj");
+		System.out.println("kkkkk");
+		System.out.println("ooooooo");
 	}
 	
 
